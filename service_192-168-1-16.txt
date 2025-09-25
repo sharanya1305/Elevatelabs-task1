@@ -1,0 +1,13 @@
+C:\Users\user>nmap -sV 192.168.1.12 -oN service_192-168-1-12.txt
+Starting Nmap 7.98 ( https://nmap.org ) at 2025-09-25 16:50 +0530
+Nmap scan report for 192.168.1.12
+Host is up (0.014s latency).
+Not shown: 997 closed tcp ports (reset)
+PORT     STATE SERVICE VERSION
+80/tcp   open  http?
+554/tcp  open  rtsp?
+8086/tcp open  d-s-n?
+MAC Address: 28:18:FD:B6:BB:F4 (Aditya Infotech)
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 183.75 seconds

@@ -1,0 +1,9 @@
+Nmap scan report for 192.168.1.16
+Host is up (0.00066s latency).
+Not shown: 996 closed tcp ports (reset)
+PORT STATE SERVICE
+135/tcp open msrpc
+139/tcp open netbios-ssn
+445/tcp open microsoft-ds
+5357/tcp ореn wsdapi
+Nmap done: 256 IP addresses (9 hosts up) scanned in 51.27 seconds
